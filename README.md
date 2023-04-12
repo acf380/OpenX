@@ -5,10 +5,12 @@ a. calculate number of nodes that do not have any children,<br />
 b. calculate the largest number of edges in a path from the root node to a leaf node,<br />
 c. check if two instances of above data structures are equivalent to each other.<br /><br />
 Simple tests are included.<br />
-The tests use the testsData.txt file.<br /><br />
+The tests use the testsData.txt file.<br />
 Each line in it contains semi-colon separated: <br />
 a. comma-separated values of vertices, <br />
 b. the number of tree leaves, <br />
 c. the largest number of edges in a path from the root node to a leaf node. <br /><br />
+
 There cannot be any empty fields!<br />
 Root node value can't be null!<br />
+There are additional tests for these cases!
